@@ -12,6 +12,6 @@ class Human:
     def speaks(self):
         print(self.name,"how are you?")
 
-a=Human("Tom Cruise","actor")
+a=Human("Tom holland","actor")
 a.do_work()
 a.speaks()
