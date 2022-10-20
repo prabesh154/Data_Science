@@ -10,7 +10,7 @@ def sum (a,b):
     print("b:",b)
 
     total=a+b
-    print("Total inside fun",total)
+    print("Total inside fun is ",total)
     return total
 
 n=sum(5,7)
