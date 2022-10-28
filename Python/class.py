@@ -1,4 +1,4 @@
-class Human:
+class Humans:
     def __init__(self,n,j):
         self.name=n
         self.job=j
@@ -12,6 +12,6 @@ class Human:
     def speaks(self):
         print(self.name,"how are you?")
 
-a=Human("Tom holland","actor")
+a=Humans("Tom holland","actor")
 a.do_work()
 a.speaks()
