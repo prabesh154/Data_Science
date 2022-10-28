@@ -3,10 +3,10 @@ locations=["bed","kitchen","closet","chair"]
 
 for i in locations:
     if i==keylocation:
-      print("Key is found in:",i)
+      print("Key  found in:",i)
       break
     else :
-       print("key is not found")'
+       print("key not found")'
 '''
 
 '''//continue statement
