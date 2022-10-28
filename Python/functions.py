@@ -1,5 +1,5 @@
 n=0
-def sum (a,b):
+def sums (a,b):
     """
     :param a:
     :param b:
@@ -13,7 +13,7 @@ def sum (a,b):
     print("Total inside fun is ",total)
     return total
 
-n=sum(5,7)
+n=sums(5,7)
 print("Total outside function:",n)
 
 
