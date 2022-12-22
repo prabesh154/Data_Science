@@ -6,7 +6,7 @@ for i in locations:
       print("Key  found in:",i)
       break
     else :
-       print("key not found")'
+       print("keys not found")'
 '''
 
 '''//continue statement
