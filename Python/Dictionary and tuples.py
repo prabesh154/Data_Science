@@ -6,4 +6,3 @@ for key in d:
 print("tom" in d)
 # gives True
 # Tuples has heterogenous values where as list has similar values
-# Tuples are inmutable
